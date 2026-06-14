@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Project Management App with GAS",
+  "description": "Project management dashboard with role-based access control, KPI reports, and exportable Google Apps Script structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
